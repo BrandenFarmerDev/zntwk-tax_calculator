@@ -1,0 +1,2 @@
+PASS: 4 YAML manifests parsed; 3 local task refs, sequential 5-task DAG, pipeline/PVC refs and registry workspace consistent.
+ClusterTask availability, registry authorization and runtime execution remain unverified.

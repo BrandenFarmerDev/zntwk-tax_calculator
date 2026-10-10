@@ -1,0 +1,12 @@
+
+> test
+> jasmine
+
+Randomized with seed 00848
+Started
+.......
+
+
+7 specs, 0 failures
+Finished in 0.004 seconds
+Randomized with seed 00848 (jasmine --random=true --seed=00848)
